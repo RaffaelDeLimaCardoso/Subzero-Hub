@@ -11363,7 +11363,7 @@ end)
 OrionLib:Init()
 
 OrionLib:MakeNotification({
-    Name = "Subzero Hub",
+    Name = "Subzero",
     Content = "Loading Config Complete!!",
     Image = "rbxassetid://104706607009986",
     Time = 5
